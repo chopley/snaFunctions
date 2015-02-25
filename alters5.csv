@@ -1,0 +1,377 @@
+egoid,alterid,is.ego,age,engagement,ethnicity,status,neighbourhood,nationality,offence,prison.history,sentence,violence,,drug
+1,2,0,21,instrumental,Traveller,low,Reading,English,Domestic burglary,limited,short,yes,,Heroin
+1,3,0,36,instrumental,Traveller,high,Reading,English,Drug dealing,extensive,medium,yes,,Heroin
+1,4,0,32,instrumental,Black,high,Reading,Jamaican,Drug dealing,medium,long,yes,,None
+1,5,0,45,instrumental,Black,high,London,Jamaican,Drug dealing,limited,medium,yes,,None
+1,6,0,36,instrumental,Black,medium,Slough,Jamaican,Commercial burglary,medium,long,yes,,Crack
+1,7,0,24,engaged,White,low,Oxford,English,Theft,limited,short,no,,Heroin
+1,8,0,33,engaged,White,medium,Oxford,English,Domestic burglary,limited,short,no,,Heroin
+1,9,0,48,engaged,White,very high,London,English,Manslaughter,extensive,long,yes,,Heroin
+1,10,0,55,engaged,White,high,London,English,Robbery,extensive,long,yes,,Heroin
+1,11,0,52,engaged,White,very high,London,English,Violence,extensive,long,yes,,Heroin
+1,12,0,46,engaged,White,medium,Reading,English,Theft,extensive,short,yes,,Heroin
+1,13,0,32,engaged,White,medium,Reading,English,Domestic burglary,medium,medium,no,,Heroin
+1,14,0,41,engaged,Black,high,London,English,Violence,medium,medium,yes,,Crack
+1,15,0,23,engaged,Black,medium,London,English,Robbery,limited,medium,no,,Crack
+1,16,0,26,instrumental,Black,medium,Slough,Jamaican,Drug dealing,limited,medium,no,,Other
+1,17,0,27,instrumental,Black,medium,Wycombe,English,Drug dealing,medium,medium,no,,Crack
+1,18,0,37,engaged,White,medium,Reading,English,Domestic burglary,extensive,medium,yes,,Heroin
+2,2,0,28,engaged,White,medium,Reading,English,Domestic burglary,medium,short,no,,Heroin
+2,3,0,41,engaged,White,high,Brighton,English,Robbery (armed),extensive,long,yes,,Heroin
+2,4,0,45,engaged,White,high,London,English,Violence,extensive,long,yes,,Heroin
+2,5,0,22,engaged,Asian,low,London,English,Robbery,limited,medium,yes,,Crack
+2,6,0,34,engaged,White,medium,Reading,English,Domestic burglary,medium,short,no,,Heroin
+2,7,0,33,instrumental,White,medium,London,English,Violence,medium,IPP,yes,,Heroin
+2,8,0,27,instrumental,White,medium,Reading,English,Drug dealing,medium,IPP,yes,,None
+2,9,0,25,engaged,White,medium,London,English,Domestic burglary,medium,medium,no,,Heroin
+2,10,0,31,engaged,White,medium,Oxford,English,Domestic burglary,medium,short,yes,,Heroin
+2,11,0,29,engaged,Mixed,medium,London,English,Domestic burglary,medium,short,no,,Crack
+2,12,0,39,engaged,Black,high,London,Jamaican,Drug dealing,medium,long,yes,,Crack
+2,13,0,35,engaged,White,medium,Oxford,English,Burglary,medium,short,no,,Heroin
+2,14,0,26,engaged,White,high,Oxford,English,Violence,extensive,medium,yes,,Crack
+2,15,0,24,engaged,Mixed,medium,Wycombe,English,Drug dealing,medium,short,yes,,Crack
+2,16,0,42,instrumental,White,medium,London,English,Burglary,medium,medium,no,,Heroin
+2,17,0,35,instrumental,White,medium,Reading,English,Robbery,medium,medium,yes,,Heroin
+3,2,0,43,engaged,White,medium,London,English,Robbery,extensive,medium,yes,,Heroin
+3,3,0,34,engaged,White,medium,London,English,Robbery (armed),extensive,long,yes,,Crack
+3,4,0,34,engaged,White,medium,London,English,Drug dealing,extensive,medium,yes,,Heroin
+3,5,0,22,engaged,Mixed,medium,London-Hackney,English,Domestic burglary,limited,short,yes,,Crack
+3,6,0,27,instrumental,White,high,London,English,Violence,medium,long,yes,,Heroin
+3,7,0,30,instrumental,White,medium,London,English,Domestic burglary,medium,medium,no,,Heroin
+3,8,0,24,instrumental,White,medium,London,English,Domestic burglary,medium,short,no,,None
+3,9,0,25,instrumental,White,medium,London,English,Violence,medium,medium,yes,,None
+3,10,0,23,instrumental,White,low,London,English,Unknown,limited,short,no,,None
+3,11,0,24,instrumental,White,low,London,English,Violence,limited,medium,yes,,Crack
+3,12,0,27,engaged,White,medium,London,English,Violence,extensive,medium,yes,,Heroin
+3,13,0,33,engaged,White,medium,Ireland,Irish,Robbery,medium,long,yes,,Crack
+3,14,0,38,engaged,White,medium,London,English,Drug dealing,medium,medium,no,,Heroin
+3,15,0,25,engaged,White,medium,London,English,Domestic burglary,medium,medium,no,,Heroin
+3,16,0,36,engaged,White,high,London,English,Manslaughter,extensive,long,yes,,Heroin
+4,2,0,45,engaged,Black,medium,London-Battersea,Ghanaian,Drug dealing,limited,short,no,,Heroin
+4,3,0,47,engaged,Black,high,London-Battersea,British,Unknown,extensive,medium,yes,,Crack
+4,4,0,52,instrumental,White,high,London,English,Commercial burglary,extensive,medium,no,,Heroin
+4,5,0,50,engaged,White,high,Scotland,Scottish,Robbery,extensive,medium,yes,,Heroin
+4,6,0,22,engaged,Black,low,London-Battersea,British (Jam),Domestic burglary,limited,short,no,,Cocaine
+4,7,0,24,engaged,Black,medium,London,British (Jam),Violence,medium,medium,yes,,Crack
+4,8,0,35,engaged,Black,high,London,British (West I),Drug dealing,extensive,long,yes,,Crack
+4,9,0,33,engaged,White,medium,London,English,Domestic burglary,medium,short,yes,,Crack
+4,10,0,38,instrumental,White,medium,London-Battersea,English,Domestic burglary,extensive,medium,no,,Heroin
+4,11,0,30,instrumental,White,medium,London-Battersea,English,Domestic burglary,extensive,short,no,,Heroin
+4,12,0,26,engaged,White,low,Unknown,English,Unknown,medium,unknown,no,,Heroin
+4,13,0,23,instrumental,White,low,Unknown,English,Domestic burglary,medium,short,no,,Heroin
+4,14,0,40,instrumental,White,medium,Unknown,English,Unknown,medium,unknown,no,,Heroin
+4,15,0,48,engaged,Black,high,London-Battersea,British,Drug dealing,extensive,long,yes,,Heroin
+4,16,0,26,engaged,White,medium,London,British,Domestic burglary,limited,short,no,,Heroin
+4,17,0,29,engaged,Mixed,medium,London,British,Drug dealing,medium,medium,yes,,Crack
+4,18,0,38,instrumental,White,medium,London,English,Drug dealing,unknown,medium,Unknown,,Heroin
+4,19,0,25,instrumental,White,medium,London,English,Unknown,unknown,unknown,Unknown,,Heroin
+4,20,0,30,instrumental,White,medium,London,English,Unknown,unknown,unknown,Unknown,,Heroin
+4,21,0,33,instrumental,White,high,London,English,Unknown,extensive,long,yes,,Crack
+5,2,0,50,engaged,White,medium,Unknown,Irish,Unknown,unknown,unknown,no,,Alcohol
+5,3,0,55,instrumental,White,very high,London,English,Drug dealing (importation),extensive,long,yes,,Heroin
+5,4,0,42,instrumental,White,high,London,English,Commercial burglary,extensive,long,yes,,None
+5,5,0,38,engaged,White,low,Brighton,English,Domestic burglary,medium,short,no,,Heroin
+5,6,0,23,engaged,White,low,London,English,Unknown,limited,short,no,,Heroin
+5,7,0,46,engaged,White,high,London,English,Domestic burglary,extensive,medium,yes,,Heroin
+5,8,0,40,engaged,White,medium,London,English,Unknown,extensive,medium,yes,,Heroin
+5,9,0,39,engaged,White,medium,London,English,Violence,extensive,long,yes,,Heroin
+5,10,0,38,engaged,White,medium,London,English,Drug dealing,extensive,medium,yes,,Crack
+5,11,0,51,engaged,White,medium,London,English,Violence,medium,long,yes,,Alcohol
+5,12,0,23,instrumental,White,low,London,English,Burglary,medium,medium,no,,Heroin
+5,13,0,28,instrumental,White,medium,Wycombe,English,Theft,medium,medium,no,,Heroin
+5,14,0,26,instrumental,White,medium,London,English,Burglary,medium,medium,no,,Heroin
+21,2,0,35,engaged,White,medium,London,English,Commercial burglary,medium,medium,no,,Heroin
+21,3,0,32,engaged,White,medium,London,English,Domestic burglary,medium,medium,yes,,Heroin
+21,4,0,45,engaged,Black,high,London,British,Violence,extensive,long,yes,,Crack
+21,5,0,30,engaged,White,medium,London,English,Domestic burglary,medium,short,no,,Heroin
+21,6,0,25,instrumental,Traveller,low,Unknown,English,Domestic burglary,medium,short,yes,,Heroin
+21,7,0,28,instrumental,Traveller,low,Unknown,English,Domestic burglary,medium,short,yes,,Heroin
+21,8,0,34,instrumental,White,high,Unknown,English,Drug dealing,extensive,unknown,yes,,Unknown
+21,9,0,36,instrumental,White,high,Unknown,English,Drug dealing,extensive,long,yes,,None
+21,10,0,29,instrumental,White,high,London,English,Robbery,extensive,long,yes,,Heroin
+6,2,0,35,engaged,White,medium,Unknown,English,Domestic burglary,medium,medium,yes,,Unknown
+6,3,0,37,engaged,White,medium,Unknown,Scottish,Violence,medium,long,yes,,Heroin
+6,4,0,24,engaged,White,low,London,Irish,Domestic burglary,limited,short,no,,Heroin
+6,5,0,39,instrumental,White,high,London,English,Violence,extensive,long,yes,,Unknown
+6,6,0,32,engaged,Black,medium,London,English,Drug dealing,extensive,medium,yes,,Crack
+6,7,0,48,engaged,White,high,London-Fulham,English,Violence,extensive,long,yes,,Heroin
+6,8,0,43,engaged,White,high,Unknown,English,Commercial burglary,extensive,long,yes,,Heroin
+6,9,0,33,instrumental,White,medium,London,English,Drug dealing,extensive,medium,yes,,Heroin
+6,10,0,30,instrumental,White,medium,London,English,Drug dealing,extensive,medium,yes,,Heroin
+8,2,0,47,engaged,White,medium,London,English,Violence,extensive,long,yes,,Crack
+8,3,0,38,engaged,Black,medium,London,British,Drug dealing (importation),extensive,long,yes,,Heroin
+8,4,0,28,instrumental,Black,low,London-Camden,British,Armed robbery,medium,long,yes,,Crack
+8,5,0,27,engaged,Traveller,medium,Unknown,British,Violence,extensive,long,yes,,Heroin
+8,6,0,24,instrumental,White,low,Reading,English,Theft,medium,short,no,,Heroin
+8,7,0,25,engaged,White,low,London,English,Domestic burglary,medium,short,no,,Heroin
+8,8,0,21,instrumental,Asian,low,London,English,Violence,limited,medium,no,,None
+8,9,0,33,instrumental,Asian,medium,Unknown,English,Drug dealing,unknown,short,no,,None
+8,10,0,25,instrumental,Asian,medium,Unknown,English,Drug dealing,unknown,medium,no,,Heroin
+8,11,0,45,instrumental,Asian,medium,London,English,Drug dealing,extensive,long,no,,None
+9,2,0,30,instrumental,White,high,London-South,English,Drug dealing,extensive,medium,yes,,None
+9,3,0,40,instrumental,White,high,London,English,Drug dealing,extensive,long,yes,,Heroin
+9,4,0,30,engaged,White,medium,London-South,English,Domestic burglary,extensive,medium,yes,,Heroin
+9,5,0,25,instrumental,White,low,Kent,English,Domestic burglary,medium,short,no,,Heroin
+9,6,0,22,instrumental,Black,medium,London,Jamaican,Drug dealing,medium,medium,yes,,None
+9,7,0,35,instrumental,Black,high,London,Jamaican,Drug dealing & Firearms,medium,medium,yes,,Crack
+9,8,0,30,engaged,White,medium,London,English,Domestic burglary,limited,short,no,,Heroin
+9,9,0,27,engaged,Traveller,medium,London-South,English,Domestic burglary,medium,medium,yes,,Heroin
+9,10,0,45,engaged,White,high,London,English,Violence,extensive,long,no,,Heroin
+9,11,0,35,engaged,White,low,Brighton,English,Unknown,medium,short,no,,Heroin
+9,12,0,60,engaged,White,high,London,English,Drug dealing (importation),extensive,long,yes,,Heroin
+10,16,0,30,engaged,Black,high,London,English,Robbery,extensive,medium,yes,,Crack
+10,2,0,30,engaged,Mixed,medium,London-Lewisham,English,Domestic burglary,medium,short,no,,Heroin
+10,3,0,27,engaged,Black,medium,London-Lewisham,English,Drug dealing,limited,medium,no,,Crack
+10,4,0,22,engaged,Mixed,medium,London,English,Domestic burglary,medium,short,no,,Heroin
+10,5,0,50,engaged,White,high,Unknown,English,Commercial burglary,extensive,long,yes,,Heroin
+10,6,0,40,engaged,Black,high,London,English,Violence,extensive,life,yes,,Heroin
+10,7,0,43,instrumental,Black,high,London,Jamaican,Violence,extensive,life,yes,,None
+10,8,0,32,instrumental,Black,high,London,English,Violence,extensive,long,yes,,Crack
+10,9,0,35,engaged,White,medium,Unknown,English,Violence,extensive,long,yes,,Heroin
+10,10,0,50,engaged,Black,high,London,English,Robbery,extensive,long,yes,,Crack
+10,11,0,38,engaged,Black,medium,Unknown,English,Unknown,medium,medium,no,,Crack
+10,12,0,45,engaged,Black,medium,London,English,Violence,unknown,medium,yes,,Crack
+10,13,0,40,engaged,White ,medium,Unknown,English,Domestic burglary,extensive,short,yes,,Heroin
+10,14,0,29,instrumental,Black,medium,London,Jamaican,Drug dealing,limited,long,yes,,Crack
+10,15,0,30,engaged,Black,medium,London-Lewisham,British,Drug dealing,extensive,medium,no,,Crack
+11,2,0,34,instrumental,Black,high,London-Battersea,English,Robbery,extensive,long,no,,Crack
+11,3,0,28,engaged,White,medium,London-Battersea,English,Domestic burglary,medium,short,no,,Heroin
+11,4,0,30,engaged,White,medium,London-Battersea,English,Domestic burglary,extensive,short,no,,Heroin
+11,5,0,34,engaged,Asian,medium,London,English,Drug dealing,medium,medium,no,,Heroin
+11,6,0,42,engaged,White,medium,Unknown,English,Violence,extensive,medium,yes,,Heroin
+11,7,0,50,engaged,White,high,Unknown,English,Violence,medium,long,no,,Heroin
+11,8,0,49,engaged,White,medium,London,English,Unknown,unknown,medium,no,,Heroin
+11,9,0,38,instrumental,Black,high,London,Jamaican,Drug dealing,extensive,long,yes,,Crack
+12,2,0,32,engaged,White,medium,Unknown,English,Robbery,medium,short,yes,,Heroin
+12,3,0,33,engaged,White,medium,South Coast,English,Domestic burglary,extensive,short,yes,,Heroin
+12,4,0,27,engaged,White,medium,Windsor,English,Domestic burglary,extensive,medium,no,,Heroin
+12,5,0,53,engaged,White,medium,Bracknell,English,Theft,extensive,short,no,,Heroin
+12,6,0,26,engaged,White,medium,Bournemouth,English,Violence,medium,medium,yes,,Heroin
+12,7,0,55,engaged,White,medium,Oxford,English,Violence,limited,long,yes,,Heroin
+12,8,0,23,instrumental,White,low,Oxford,English,Domestic burglary,medium,unknown,yes,,Crack
+12,9,0,36,engaged,Mixed,medium,London,English,Robbery,extensive,long,yes,,Crack
+12,10,0,22,instrumental,White,low,Unknown,English,Theft,medium,short,no,,Heroin
+12,11,0,25,engaged,White,low,London,English,Domestic burglary,medium,short,no,,Heroin
+12,12,0,21,instrumental,Black,medium,London,English,Violence,limited,medium,yes,,None
+12,13,0,33,instrumental,Black,medium,London,English,Drug dealing,unknown,short,yes,,None
+12,14,0,25,instrumental,Black,high,London,Jamaican,Drug dealing,unknown,medium,yes,,Heroin
+12,15,0,45,instrumental,Black,high,London,Jamaican,Drug dealing,extensive,long,yes,,None
+13,2,0,36,engaged,White,medium,London-East,English,Domestic burglary,medium,medium,no,,Heroin
+13,3,0,45,engaged,White,high,Unknown,English,Robbery,extensive,long,yes,,Heroin
+13,4,0,44,engaged,White,low,London-South,English,Fraud,limited,medium,no,,Alcohol
+13,5,0,35,engaged,White,medium,Unknown,English,Domestic burglary,extensive,long,yes,,Heroin
+13,6,0,33,engaged,White,medium,London,English,Domestic burglary,extensive,medium,no,,Heroin
+13,7,0,32,engaged,White,medium,Liverpool,English,Violence,limited,medium,yes,,Heroin
+13,8,0,27,engaged,White,medium,Liverpool,English,Domestic burglary,medium,medium,no,,Heroin
+13,9,0,30,engaged,White,medium,London-South,English,Domestic burglary,medium,medium,no,,Heroin
+13,10,0,32,instrumental,White,high,London,English,Drug dealing,extensive,long,yes,,Heroin
+13,11,0,24,engaged,White,low,Norwich,English,Domestic burglary,limited,short,no,,Heroin
+13,12,0,52,instrumental,White,high,London,English,Commercial burglary,extensive,long,yes,,Heroin
+13,13,0,39,instrumental,White,medium,Unknown,English,Unknown,extensive,medium,yes,,Heroin
+13,14,0,31,instrumental,White,medium,Unknown,English,Domestic burglary,medium,medium,no,,Heroin
+14,2,0,37,instrumental,White,low,London-Croydon,English,Domestic burglary,limited,short,no,,Heroin
+15,2,0,25,engaged,Black,medium,London,Jamaican,Unknown,limited,short,yes,,Crack
+15,3,0,39,engaged,Black,medium,London,Jamaican,Drug dealing,limited,medium,yes,,Crack
+15,4,0,34,engaged,Black,medium,London-Brixton,Jamaican,Unknown,extensive,medium,yes,,Alcohol
+15,5,0,41,engaged,Black,high,London-Brixton,Jamaican,Drug dealing (importation),extensive,long,yes,,Crack
+15,6,0,45,engaged,Mixed,high,London,Jamaican,Murder,extensive,life,yes,,Heroin
+15,7,0,26,engaged,Mixed,medium,London-Brixton,English,Domestic burglary,medium,medium,no,,Heroin
+15,8,0,33,instrumental,Asian,medium,London,English,Drug dealing,medium,medium,Unknown,,None
+15,9,0,31,instrumental,Asian,medium,London,English,Drug dealing,medium,medium,Unknown,,None
+15,10,0,24,engaged,White,low,Unknown,English,Unknown,unknown,short,no,,Heroin
+15,11,0,29,engaged,White,medium,Unknown,English,Unknown,medium,medium,no,,Heroin
+15,12,0,37,instrumental,Asian,medium,London,English,Drug dealing,extensive,long,no,,None
+15,13,0,29,instrumental,Black,low,London,English,Unknown,unknown,unknown,Unknown,,Cocaine
+15,14,0,24,engaged,White,low,Unknown,English,Domestic burglary,unknown,unknown,no,,Heroin
+16,2,0,38,engaged,Black,medium,London,English,Drug dealing,medium,long,yes,,Crack
+16,3,0,32,engaged,Black,medium,London-Brixton,English,Domestic burglary,medium,medium,no,,Heroin
+16,4,0,34,engaged,Black,high,London-Brixton,English,Violence,medium,life,yes,,Crack
+16,5,0,31,engaged,White,high,Glasgow,Scottish,Murder,limited,life,yes,,Heroin
+16,6,0,27,instrumental,Black,medium,London,English,Robbery,medium,long,yes,,Crack
+16,7,0,39,instrumental,Mixed,low,London,English,Domestic burglary,medium,short,no,,Heroin
+16,8,0,36,instrumental,White,high,London,English,Kidnapping,medium,long,yes,,Heroin
+16,9,0,24,engaged,Black,low,London,English,Domestic burglary,limited,short,no,,Crack
+16,10,0,26,instrumental,White,medium,London,English,Drug dealing,medium,medium,no,,None
+16,11,0,35,engaged,White,medium,London,English,Violence,medium,medium,yes,,Heroin
+16,12,0,21,engaged,White,low,Unknown,English,Domestic burglary,limited,short,no,,Heroin
+16,13,0,23,engaged,White,low,Unknown,Scottish,Domestic burglary,limited,short,no,,Heroin
+16,14,0,48,instrumental,White,high,London,English,Violence,extensive,long,yes,,None
+16,15,0,28,engaged,White,low,Unknown,English,Domestic burglary,medium,short,no,,Heroin
+16,16,0,43,instrumental,Asian,high,London,English,Drug dealing,extensive,long,yes,,Heroin
+16,17,0,29,engaged,Black,medium,London,English,Drug dealing,limited,short,yes,,Crack
+16,18,0,38,instrumental,Black,medium,Jamaican,English,Violence,none,long,yes,,Crack
+16,19,0,29,instrumental,White,medium,London,English,Violence,none,short,yes,,Heroin
+16,20,0,32,instrumental,Mixed,medium,London,English,Criminal damage,medium,short,no,,Crack
+16,21,0,28,engaged,Black,medium,London,English,Robbery,limited,medium,yes,,Crack
+16,22,0,40,engaged,White,high,Unknown,English,Drug dealing,extensive,medium,yes,,Heroin
+16,23,0,23,engaged,Chinese,low,London,English,Criminal damage,none,short,no,,Alcohol
+16,24,0,41,instrumental,White,high,Unknown,English,Murder,extensive,life,yes,,Heroin
+16,25,0,36,engaged,White,medium,London,English,Drug dealing,medium,medium,no,,Heroin
+16,26,0,33,engaged,White,medium,Unknown,English,Domestic burglary,extensive,short,no,,Heroin
+17,2,,22,instrumental,Traveller,low,Oxford,English,Domestic burglary,medium,short,yes,,Heroin
+17,3,,23,instrumental,White,low,Oxford,English,Unknown,unknown,unknown,yes,,Heroin
+17,4,,26,engaged,White,medium,Maindenhead,English,Domestic burglary,medium,medium,no,,Heroin
+17,5,,44,engaged,White,medium,Reading,English,Burglary,medium,medium,no,,Heroin
+17,6,,37,engaged,Black,medium,Oxford,English,Unknown,medium,short,no,,Crack
+17,7,,25,engaged,Black,medium,Reading,Jamaican,Unknown,unknown,unknown,Unknown,,Crack
+17,8,,63,nonprisoner,White,,Oxford,English,Non-prisoner,,,,,Alcohol
+17,9,,42,engaged,White,medium,North England,English,Unknown,unknown,unknown,Unknown,,Heroin
+17,10,,24,instrumental,Mixed,medium,London,English,Unknown,unknown,unknown,Unknown,,Crack
+17,11,,28,instrumental,Black,medium,London,English,Drug dealing,unknown,unknown,Unknown,,Crack
+17,12,,27,instrumental,Traveller,high,Unknown,English,Drug dealing,unknown,long,yes,,Crack
+17,13,,29,instrumental,Traveller,high,Unknown,English,Drug dealing,unknown,medium,yes,,Crack
+17,14,,48,engaged,Black,high,London,Jamaican,Drug dealing,unknown,long,yes,,Crack
+17,15,,23,engaged,Black,low,London,English,Unknown,unknown,unknown,Unknown,,Crack
+17,16,,39,engaged,White,medium,Oxford,English,Domestic burglary,medium,medium,yes,,Heroin
+19,2,,32,instrumental,Asian,low,London,English,Domestic burglary,medium,short,no,,Heroin
+19,3,,28,engaged,White,medium,London,English,Unknown,medium,medium,yes,,Heroin
+19,4,,55,instrumental,White,medium,Reading,English,Unknown,extensive,medium,no,,Heroin
+19,5,,29,engaged,White,medium,Reading,English,Violence,extensive,life,yes,,Heroin
+19,6,,43,engaged,Black,medium,London,English,Violence,extensive,long,yes,,Heroin
+19,7,,34,engaged,White,medium,Oxford,English,Unknown,extensive,medium,no,,Heroin
+19,8,,45,engaged,Black,high,London,Jamaican,Drug dealing,extensive,long,yes,,Crack
+19,9,,31,instrumental,Black,medium,Oxford,English,Robbery,extensive,medium,yes,,Crack
+19,10,,28,instrumental,Black,medium,London,English,Drug dealing,extensive,medium,yes,,Crack
+19,11,,34,engaged,White,low,Oxford,English,Domestic burglary,extensive,short,no,,Heroin
+19,12,,34,engaged,Asian,medium,London,English,Drug dealing,medium,medium,no,,Heroin
+19,13,,41,instrumental,Asian,high,London,English,Unknown,medium,long,no,,None
+19,14,,28,engaged,Asian,medium,London,English,Drug dealing,limited,medium,no,,Heroin
+20,2,,52,engaged,White,medium,London,English,Would not share,medium,short,yes,,Alcohol
+20,3,,27,engaged,White,low,Unknown,English,Would not share,medium,short,no,,Alcohol
+20,4,,53,engaged,White,high,Unknown,English,Would not share,extensive,life,yes,,Heroin
+20,5,,55,engaged,White,medium,Unknown,English,Would not share,medium,medium,no,,Alcohol
+20,6,,43,engaged,White,high,Unknown,English,Would not share,extensive,long,yes,,Heroin
+7,2,,57,engaged,White,medium,Ireland,Irish,Unknown,none,short,no,,Alcohol
+7,3,,36,engaged,White,medium,London,Irish,Unknown,medium,long,yes,,Heroin
+7,4,,32,engaged,White,medium,London,Irish,Unknown,unknown,medium,no,,Heroin
+7,5,,46,engaged,White,medium,London,North England,Fraud,unknown,medium,no,,Alcohol
+7,6,,24,engaged,White,low,London,English,Rape,none,medium,long,,Heroin
+7,7,,29,engaged,White,medium,London,English,Violence,extensive,long,long,,Heroin
+7,8,,28,instrumental,Asian,medium,London,English,Drug dealing,unknown,medium,no,,None
+7,9,,34,instrumental,Asian,medium,London,English,Unknown,medium,medium,no,,None
+7,10,,29,instrumental,White,medium,London,English,Drug dealing,medium,medium,yes,,Heroin
+7,11,,27,instrumental,White,medium,London,English,Unknown,unknown,medium,no,,Heroin
+7,12,,53,engaged,White,high,London,English,Violence,extensive,life,yes,,Heroin
+7,13,,55,engaged,White,high,North England,English,Violence,extensive,life,yes,,Heroin
+7,14,,33,instrumental,White,medium,Unknown,English,Domestic burglary,medium,medium,no,,Heroin
+7,15,,35,instrumental,White,medium,Unknown,English,Domestic burglary,medium,short,no,,Heroin
+7,16,,31,instrumental,White,medium,Unknown,English,Drug dealing,medium,medium,no,,Heroin
+7,17,,24,instrumental,Black,medium,London,English,Violence,limited,long,yes,,None
+7,18,,28,instrumental,Black,medium,London,Jamaican,Drug dealing,medium,medium,yes,,None
+7,19,,30,instrumental,Black,medium,London,English,Robbery,medium,medium,yes,,None
+22,2,,53,instrumental,Black,high,London-Brixton,English,Violence,extensive,life,yes,,Crack
+22,3,,49,instrumental,Black,medium,London-Brixton,English,Drug dealing,medium,medium,yes,,Crack
+22,4,,54,instrumental,Black,high,London,English,Drug dealing,extensive,long,yes,,Crack
+22,5,,62,instrumental,Black,high,London,Jamaican,Drug dealing,extensive,long,yes,,Alcohol
+22,6,,36,engaged,White,medium,London,English,Domestic burglary,extensive,medium,no,,Heroin
+22,7,,38,engaged,White,medium,London,English,Drug dealing,medium,long,yes,,Heroin
+25,2,,27,instrumental,Asian,medium,London,Pakistani,Drug dealing,medium,medium,no,,None
+25,3,,32,instrumental,Asian,medium,London,English,Drug dealing,extensive,long,no,,None
+25,4,,34,instrumental,Asian,medium,London,English,Drug dealing,medium,medium,no,,Heroin
+25,5,,33,instrumental,White,low,London,English,Domestic burglary,medium,short,no,,Heroin
+25,6,,25,instrumental,Mixed,medium,London,English,Violence,medium,long,yes,,Crack
+25,7,,27,instrumental,White,low,London,English,Unknown,unknown,short,no,,Heroin
+25,8,,43,instrumental,Black,high,London,English,Drug dealing,extensive,long,yes,,None
+25,9,,25,instrumental,White,low,London,English,Theft,extensive,short,no,,Alcohol
+25,10,,25,instrumental,White,medium,London,English,Domestic burglary,medium,short,no,,Crack
+25,11,,35,instrumental,White,medium,London,English,Domestic burglary,medium,medium,no,,Cocaine
+25,12,,23,instrumental,Asian,medium,London,English,Drug dealing,limited,medium,no,,None
+25,13,,23,instrumental,Asian,medium,London,English,Drug dealing,limited,short,no,,None
+25,14,,22,engaged,Black,medium,London,English,Other,medium,medium,no,,Cocaine
+25,15,,22,engaged,Black,medium,London,English,Drug dealing,limited,medium,yes,,Crack
+25,16,,35,engaged,Black,high,London,English,Violence,medium,medium,yes,,Other
+25,17,,35,engaged,Black,high,London,Jamaican,Unknown,limited,medium,yes,,Crack
+25,18,,37,engaged,Asian,medium,London,English,Drug dealing,limited,long,no,,Heroin
+25,19,,24,engaged,White,medium,London,English,Robbery,extensive,long,yes,,Crack
+25,20,,33,engaged,White,medium,London,English,Drug dealing,medium,short,no,,Cocaine
+25,21,,31,engaged,White,medium,London,English,Violence,limited,life,yes,,Heroin
+25,22,,38,instrumental,White,medium,London,English,Violence,unknown,life,yes,,Other
+25,23,,30,engaged,White,medium,London,English,Violence,none,life,yes,,Crack
+25,24,,43,engaged,White,medium,London,English,Robbery,limited,life,yes,,Heroin
+25,25,,31,engaged,White,medium,London,English,Domestic burglary,medium,short,no,,Heroin
+25,26,,38,engaged,Black,medium,London,English,Violence,limited,medium,yes,,Crack
+25,27,,24,engaged,Black,medium,London,English,Drug dealing,limited,medium,no,,Crack
+26,2,,42,instrumental,Black,high,London,English,Robbery,extensive,long,yes,,Heroin
+26,3,,40,engaged,Mixed,medium,London,English,Unknown,medium,medium,yes,,Heroin
+26,4,,34,instrumental,Black,medium,London,English,Drug dealing,medium,long,no,,Crack
+26,5,,33,instrumental,White,low,North England,English,Domestic burglary,extensive,short,no,,Heroin
+26,6,,33,instrumental,Black,medium,London,English,Violence,medium,short,yes,,Cocaine
+26,7,,32,instrumental,Black,high,London,English,Violence,medium,life,yes,,Cocaine
+26,8,,29,instrumental,White,medium,London,English,Domestic burglary,limited,short,no,,Heroin
+26,9,,29,engaged,Black,medium,London,English,Robbery,medium,medium,yes,,Crack
+26,10,,27,engaged,White,low,London,English,Domestic burglary,medium,short,yes,,Heroin
+26,11,,47,instrumental,White,medium,London,English,Drug dealing,medium,medium,no,,Heroin
+24,2,,41,engaged,White,medium,London,English,Violence,medium,long,yes,,Heroin
+24,3,,41,instrumental,Black,high,Reading,Jamaican,Unknown,extensive,short,no,,Crack
+24,4,,39,instrumental,Black,high,Reading,Jamaican,Robbery,extensive,medium,yes,,Crack
+24,5,,39,instrumental,White,low,London,English,Domestic burglary,extensive,short,yes,,Alcohol
+24,6,,39,engaged,White,medium,London-South,English,Drug dealing,extensive,short,no,,Heroin
+24,7,,39,engaged,White,medium,London,English,Unknown,extensive,medium,no,,Heroin
+24,8,,38,instrumental,White,low,London,English,Domestic burglary,extensive,medium,no,,Heroin
+24,9,,38,instrumental,Black,medium,London,English,Drug dealing,none,long,no,,Cocaine
+24,10,,38,instrumental,Mixed,high,Oxford,English,Robbery,limited,medium,yes,,Cocaine
+24,11,,35,engaged,White,medium,London-South,English,Domestic burglary,medium,short,no,,Heroin
+24,12,,35,engaged,White,medium,London,English,Drug dealing,medium,short,no,,Heroin
+24,13,,32,instrumental,White,medium,Oxford,English,Domestic burglary,extensive,medium,no,,Heroin
+24,14,,30,engaged,White,medium,London,English,Robbery,limited,long,yes,,Heroin
+24,15,,30,instrumental,White,medium,Slough,English,Unknown,medium,medium,no,,Crack
+24,16,,26,engaged,Black,medium,Oxford,English,Unknown,none,medium,yes,,Crack
+24,17,,22,engaged,White,low,Oxford,English,Domestic burglary,limited,short,no,,Alcohol
+24,18,,21,instrumental,White,medium,Reading,English,Robbery,limited,medium,yes,,Heroin
+24,19,,27,instrumental,Black,medium,Slough,Jamaican,Unknown,none,short,yes,,Crack
+24,20,,24,instrumental,Asian,medium,London,English,Domestic burglary,limited,long,no,,Heroin
+24,21,,23,instrumental,White,medium,Reading,English,Domestic burglary,medium,medium,yes,,Heroin
+24,22,,23,instrumental,Black,medium,London,English,Violence,medium,life,no,,Heroin
+23,2,,22,engaged,Asian,medium,London,English,Drug dealing,limited,medium,,,Heroin
+23,3,,27,engaged,Asian,medium,London,English,Violence,limited,short,yes,,None
+23,4,,21,engaged,Black,medium,Reading,English,Drug dealing,limited,medium,,,Other
+23,5,,29,engaged,Traveller,low,Oxford,English,Domestic burglary,extensive,medium,no,,Heroin
+23,6,,23,engaged,White,medium,Oxford,English,Domestic burglary,limited,medium,,,Crack
+23,7,,25,engaged,White,medium,Oxford,English,Domestic burglary,extensive,medium,,,Heroin
+23,8,,32,engaged,White,medium,Slough,English,Violence,medium,long,yes,,Alcohol
+23,9,,33,engaged,White,medium,Reading,English,Domestic burglary,medium,medium,yes,,Heroin
+23,10,,24,instrumental,Asian,low,Slough,English,Theft,none,medium,no,,Heroin
+23,11,,26,instrumental,Asian,medium,London,English,Violence,limited,short,no,,None
+23,12,,27,instrumental,Asian,low,London,English,Drug dealing,none,short,no,,Heroin
+23,13,,30,instrumental,Asian,medium,London,Pakistani,Drug dealing,limited,medium,no,,Heroin
+23,14,,29,instrumental,Black,medium,Slough,Jamaican,Drug dealing,medium,medium,yes,,None
+23,15,,42,instrumental,Black,medium,Wycombe,English,Drug dealing,medium,long,yes,,Crack
+23,16,,31,instrumental,Mixed,medium,Reading,English,Violence,extensive,long,yes,,Crack
+23,17,,33,instrumental,Mixed,medium,Oxford,English,Domestic burglary,medium,long,no,,Heroin
+23,18,,21,instrumental,White,medium,Oxford,English,Violence,limited,long,yes,,Alcohol
+23,19,,22,instrumental,White,high,Oxford,English,Murder,medium,life,yes,,Cocaine
+23,20,,22,instrumental,White,medium,London,English,Domestic burglary,limited,long,yes,,Heroin
+23,21,,22,instrumental,White,medium,Reading,Scottish,Violence,medium,medium,yes,,Crack
+23,22,,24,instrumental,White,medium,Oxford,English,Domestic burglary,extensive,long,no,,Heroin
+23,23,,25,instrumental,White,low,Oxford,English,Theft,medium,short,no,,Heroin
+23,24,,25,instrumental,White,medium,Wycombe,English,Domestic burglary,extensive,medium,yes,,Crack
+23,25,,26,instrumental,White,medium,London,English,Domestic burglary,none,medium,yes,,Crack
+23,26,,31,instrumental,White,medium,London,English,Fraud,medium,long,no,,Heroin
+23,27,,32,instrumental,White,medium,Oxford,English,Domestic burglary,extensive,medium,no,,Heroin
+23,28,,39,instrumental,White,medium,Oxford,English,Drug dealing,extensive,medium,yes,,Heroin
+1,1,,29,engaged,Traveller,ego,Oxford,English,Domestic burglary,extensive,medium,no,,Heroin
+2,1,,28,engaged,White,ego,Reading,English,Robbery,medium,long,yes,,Heroin
+3,1,,30,engaged,Mixed,ego,London-Hackney,English,Commercial burglary,medium,medium,yes,,Crack
+4,1,,49,engaged,Black,ego,London-Battersea,English,Drug dealing,medium,short,yes,,Heroin
+5,1,,59,engaged,White,ego,London-Muswell Hill,English,Drug dealing,extensive,long,no,,Heroin
+6,1,,33,engaged,White,ego,London-Fulham,English,Commercial burglary,extensive,medium,yes,,Crack
+7,1,,42,engaged,White,ego,London-Battersea,English,Violence,extensive,long,yes,,Heroin
+8,1,,42,engaged,Black,ego,London-Camden,English,Robbery,limited,medium,yes,,Crack
+9,1,,44,engaged,White,ego,London-South,English,Drug dealing,none,long,yes,,Cocaine
+10,1,,27,engaged,Black,ego,London-Lewisham,English,Domestic burglary,extensive,short,no,,Crack
+11,1,,32,engaged,Black,ego,London-Battersea,Jamaican,Domestic burglary,medium,short,no,,Crack
+12,1,,48,engaged,White,ego,Oxford,English,Arson,none,medium,no,,Alcohol
+13,1,,38,engaged,White,ego,London-East,English,Robbery,limited,medium,no,,Heroin
+14,1,,34,instrumental,White,ego,London-Croydon,English,Domestic burglary,medium,medium,yes,,Heroin
+15,1,,59,engaged,Black,ego,London-Brixton,Jamaican,Robbery,medium,long,no,,Heroin
+16,1,,46,engaged,Black,ego,London-Brixton,English,Theft,extensive,short,yes,,Heroin
+17,1,,40,engaged,White,ego,Oxford,English,Violence,none,short,yes,,Alcohol
+18,1,,46,engaged,Black,ego,Reading,English,Violence,extensive,short,yes,,Crack
+19,1,,22,engaged,Black,ego,High Wycombe,English,Violence,none,long,yes,,Other
+20,1,,47,engaged,White,ego,London-Wimbledon,English,Robbery,none,medium,no,,Alcohol
+21,1,,57,engaged,White,ego,Kent,Irish,Rape,medium,medium,yes,,Alcohol
+22,1,,50,engaged,Mixed,ego,London-Brixton,English,Theft,medium,short,no,,Heroin
+23,1,,33,instrumental,White,ego,Oxford,English,Domestic burglary,medium,long,yes,,Heroin
+24,1,,39,instrumental,White,ego,London-South,English,Domestic burglary,extensive,medium,no,,Heroin
+25,1,,27,instrumental,White,ego,London-Croydon,English,Violence,medium,long,yes,,Cocaine
+26,1,,29,instrumental,Black,ego,London-Battersea,English,Robbery,extensive,short,yes,,Crack
