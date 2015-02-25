@@ -1,6 +1,13 @@
 #Load libraries, set wd
 rm(list=ls())
-setwd("/home/charles/ownCloud/charles/work/2014/eliFinalPaper/snaData/charlesDataReduction/")  
+setwd("/home/charles/ownCloud/charles/work/2015/EliFinalPaper/snaFunctions")  
+
+#Load datasets
+egos   <- read.csv2(file="/home/charles/ownCloud/charles/work/2015/EliFinalPaper/snaFunctions/egos5.csv", header=TRUE,sep=',') 
+alters <- read.csv2(file="/home/charles/ownCloud/charles/work/2015/EliFinalPaper/snaFunctions/alters5.csv", header=TRUE,sep=',') 
+
+ties   <- read.csv2(file="/home/charles/ownCloud/charles/work/2015/EliFinalPaper/snaFunctions/adjacency5.csv", header=TRUE,sep=',')
+
 library(igraph)     #social network analysis (for network plots)
 library(intergraph) #for creating and changing igraph network objects
 library(plyr)
@@ -43,11 +50,6 @@ library(xlsx)
 
 
 
-#Load datasets
-egos   <- read.csv2(file="/home/charles/ownCloud/charles/work/2014/eliFinalPaper/snaData/egos5.csv", header=TRUE,sep=',') 
-alters <- read.csv2(file="/home/charles/ownCloud/charles/work/2014/eliFinalPaper/snaData/alters5.csv", header=TRUE,sep=',') 
-ties   <- read.csv2(file="/home/charles/ownCloud/charles/work/2014/eliFinalPaper/snaData/adjacency5.csv", header=TRUE,sep=',')
-
 #ties contains all the data that is required to construct the network.
 #alters contains all the data that is required to compute the homophily.
 
@@ -77,14 +79,15 @@ for(nEgo in egoNetworkVector)
   #and now we create a graph of the object at t2
   g2<-graph(c(temp),length(nodest2),directed=F)
   ##assign tie strength based on Elis values
+  tt2$tieStrength[tt2$tieStrength == 4] <- 3
   g2<-set.edge.attribute(g2,"Strength",E(g2),tt2$tieStrength) 
   
   
   ##lets colour the edges by the type of tie
   #  E(g2)$width[tt2$friends==1]=1 ##associate
   #  E(g2)$width[tt2$friends==2]=3 ##weak friend
-  #  E(g2)$width[tt2$friends==3]=9 ##mentor
-  #  E(g2)$width[tt2$friends==4]=6 ##strong friend
+  #  E(g2)$width[tt2$friends==3&4]=9 ##mentor and strong friend
+ 
   #  E(g2)$color<-"black"  
   
   ##next step is to populate the networks with the features specified in the alters data set
@@ -122,8 +125,8 @@ for(nEgo in egoNetworkVector)
  ## and these use colouts 
   E(g2)$color[E(g2)$Strength==1]="blue" ##associate
   E(g2)$color[E(g2)$Strength==2]="red" ##weak friend
-  E(g2)$color[E(g2)$Strength==3]="green" ##mentor
-  E(g2)$color[E(g2)$Strength==4]="black" ##strong friend
+  E(g2)$color[E(g2)$Strength==3]="green" ##mentor & strong friend
+ # E(g2)$color[E(g2)$Strength==4]="black" ##strong friend
  
 ## and these line types
 #E(g2)$lty[E(g2)$Strength==1]=1 #"solid" ##associate
